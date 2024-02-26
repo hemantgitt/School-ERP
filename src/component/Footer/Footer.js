@@ -4,6 +4,7 @@ const Footer = () => {
   return (
     <>
        <div className="row">
+        
                 <div className="col-md-12">
                     <nav aria-label="breadcrumb" className="nav-breadcrumb" style={{margin: '0px 0px 10px'}}>
                         <ol className="breadcrumb">
